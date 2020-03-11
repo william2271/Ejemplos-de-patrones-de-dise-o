@@ -1,0 +1,7 @@
+C:\Users\william\source\repos\Singletos\bin\Debug\Singletos.exe.config
+C:\Users\william\source\repos\Singletos\bin\Debug\Singletos.exe
+C:\Users\william\source\repos\Singletos\bin\Debug\Singletos.pdb
+C:\Users\william\source\repos\Singletos\obj\Debug\Singletos.csprojAssemblyReference.cache
+C:\Users\william\source\repos\Singletos\obj\Debug\Singletos.csproj.CoreCompileInputs.cache
+C:\Users\william\source\repos\Singletos\obj\Debug\Singletos.exe
+C:\Users\william\source\repos\Singletos\obj\Debug\Singletos.pdb
